@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @freyah4224. I'm a software developer with 8 years of experience maintaining and developing web applications using .NET.
+- 👀 I’m interested in programming language theory and computational linguistics!
+- 🌱 I’m currently learning/planning on learning .NET Core, React, Angular and Python
+- 📫 How to reach me: Email me at freyab277@gmail.com
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: White cats with blue eyes are the most likely to be born deaf. Like Sigrid - check out "Travis and Sigrid" on social media 😸
